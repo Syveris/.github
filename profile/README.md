@@ -8,9 +8,6 @@ Welcome to Syveris! We are a passionate team of developers dedicated to creating
 
 Check out our website: [syveris.us.kg](https://syveris.us.kg)
 
-## 🚀 Our Mission
-
-At Syveris, our mission is to leverage technology to solve real-world problems and foster a collaborative environment for developers of all skill levels. We aim to promote learning, sharing knowledge, and driving progress in the tech industry.
 
 ## 🛠 Projects
 
